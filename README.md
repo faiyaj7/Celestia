@@ -101,9 +101,9 @@ npm start
 [PrismaUrl]: https://www.prisma.io/
 [Stripe Badge]: https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=fff&style=plastic
 [StripeUrl]: https://stripe.com/
-[Redux]: (https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+[Redux]: https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white
 [ReduxUrl]: https://redux-toolkit.js.org/
-[Framer]: (https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+[Framer]: https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue
 [FramerUrl]: https://www.framer.com/
 [Tailwind]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
 [TailwindUrl]: https://tailwindcss.com
