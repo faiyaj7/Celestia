@@ -15,7 +15,7 @@ const Success = () => {
     dispatch(emptyPrice());
     dispatch(emptyQuantities());
     runFireworks();
-  }, []);
+  }, [dispatch]);
 
   return (
     <div className="success-wrapper mb-[100px] ">

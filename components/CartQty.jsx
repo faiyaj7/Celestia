@@ -22,11 +22,11 @@ const CartQty = () => {
         transition: { duration: 0.2, repeat: 1, repeatType: "reverse" },
       });
     }
-  }, [totalQuantities, controls]);
+  }, [totalQuantities, controls, isDelete, mounted]);
   // after succesful delete the item we change isDelete to false so that when item added it can spring
   useEffect(() => {
     if (isDelete) dispatch(toggleDelete(false));
-  }, [cart]);
+  }, [cart, dispatch, isDelete]);
   return (
     <Link href="/cart">
       <div className="relative">
